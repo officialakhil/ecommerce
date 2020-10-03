@@ -25,7 +25,7 @@
 - Clone the repository & Change directory to frontend
 
   ```console
-  $ git clone https://github.com/officialakhil/ecommerce.github.io/
+  $ git clone https://github.com/officialakhil/ecommerce/
   $ cd ecommerce/frontend
   ```
 
@@ -55,8 +55,8 @@ Pull requests are always welcome, and I'll do my best to do reviews as fast as I
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/officialakhil/ecommerce.github.io/blob/master/LICENSE)
+This project is licensed under the [MIT License](https://github.com/officialakhil/ecommerce/blob/master/LICENSE)
 
 ## Get Help
 
-If appropriate, [open an issue](https://github.com/officalakhil/ecommerce.github.io/issues) on GitHub
+If appropriate, [open an issue](https://github.com/officalakhil/ecommerce/issues) on GitHub
