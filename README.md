@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="MIT License">
 </a>
 <a href="https://reactjs.org">
-    <img src="https://img.shields.io/badge/Made%20With-React%203-61DAFB.svg?style=for-the-badge&logo=React" alt="Made with React">
+    <img src="https://img.shields.io/badge/Made%20With-React-61DAFB.svg?style=for-the-badge&logo=React" alt="Made with React">
 </a>
 <br/> <br/>
 <h1> Ecommerce Website </a></h1>
